@@ -1,10 +1,10 @@
 parameters:
     database_driver:   pdo_mysql
-    database_host:     127.0.0.1
+    database_host:     us-cdbr-iron-east-03.cleardb.net
     database_port:     3306
-    database_name:     wellcommerce
-    database_user:     root
-    database_password: ~
+    database_name:     heroku_fe555adc6f62170
+    database_user:     bbae85a5dead9e
+    database_password: 9ffb4f21
 
     locale:            en
     secret:            ~
