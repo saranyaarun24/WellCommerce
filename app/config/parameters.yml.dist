@@ -1,0 +1,15 @@
+parameters:
+    database_driver:   pdo_mysql
+    database_host:     127.0.0.1
+    database_port:     3306
+    database_name:     wellcommerce
+    database_user:     root
+    database_password: ~
+
+    locale:            en
+    secret:            ~
+
+    search_adapter: algolia
+    search_index_prefix: wellcommerce_
+
+    php_bin_path: ~
